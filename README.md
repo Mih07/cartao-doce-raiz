@@ -14,4 +14,12 @@ Cartão de visita digital desenvolvido em HTML, com foco em uso mobile e botão 
 
 ## Objetivo
 Projeto criado para fins de estudo e portfólio, demonstrando a criação de um cartão digital funcional para pequenos negócios.
-https://mih07.github.io/cartao-doce-raiz/
+
+## 🌐 Site publicado
+
+Acesse o site: https://mih07.github.io/cartao-doce-raiz/
+👉 
+
+
+Desenvolvido por Michele Santo.
+
